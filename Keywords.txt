@@ -1,0 +1,26 @@
+#######################################
+# Syntax Multi Colored LEDs
+#######################################
+#gendel11 whitecrow11
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Colorled	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+ledcolor	KEYWORD2
+toggle	KEYWORD2
+ledoff	KEYWORD2
+setcolor	KEYWORD2
+blink	KEYWORD2
+fade	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+tim	LITERAL1
